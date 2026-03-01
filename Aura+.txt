@@ -1,4 +1,4 @@
-#profile-title: AURA_VPN | PLS_AURA
+#profile-title: PLS_AURA тест 
 #profile-update-interval: 4
 #announce: автообновление - 4 часа, техподдержка: @Stas_PLS_VPN_Helper. 
 
