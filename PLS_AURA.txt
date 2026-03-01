@@ -17,5 +17,7 @@ vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&
 
 vless://080556c0-0117-0bb8-b1d9-3708fa8ab8c4@89.208.228.167:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇫🇮 7. 🌸БЕЛАЯ ФИНЛЯНДИЯ 
 
-vless://6cab7c39-d329-4102-a9e3-1735a7c9d46d@178.154.202.254:7445?security=reality&encryption=none&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇵🇱 8. 🌸БЕЛАЯ ПОЛЬША
+vless://0cd30c3f-a1de-4c2b-a907-540460bf64a7@51.250.25.103:443?security=reality&encryption=none&pbk=oSk1K-R-fmT4tj_qrYAvR1Mn0cEcvCl7zh9gQz6Fx28&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=event.yandex.ru&sid=b1d8aa4aad#🇵🇱 8. 🌸БЕЛАЯ ПОЛЬША
+
+
 
