@@ -29,6 +29,9 @@ vless://d68d1343-6a39-4770-9f3f-7c73c60a320c@213.176.18.99:443?security=reality&
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.11.48:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.indevs.in#🇹🇷 13. 🌸ТУРЦИЯ
 
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 14. 🌸ЯПОНИЯ ЮТУБ/ИНСТА
+ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA==@149.102.132.180:80#🇬🇧 14. 🌸СОЕДИНЁННОЕ КОРОЛЕВСТВО
 
-vless://1c1447e8-5eb0-4281-a7af-3b3a601310dd@62.60.245.202:8443?security=reality&encryption=none&pbk=7kyVRSCsBRJ-W30oLqoR-M1WTVxea8JFV9lp_ERRnh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=5317f23842140976#🇳🇱 15. 🌸ЮТУБ БЕЗ РЕКЛАМЫ 
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 15. 🌸ЯПОНИЯ ЮТУБ/ИНСТА
+
+vless://1c1447e8-5eb0-4281-a7af-3b3a601310dd@62.60.245.202:8443?security=reality&encryption=none&pbk=7kyVRSCsBRJ-W30oLqoR-M1WTVxea8JFV9lp_ERRnh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=5317f23842140976#🇳🇱 16. 🌸ЮТУБ БЕЗ РЕКЛАМЫ 
+
