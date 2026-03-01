@@ -2,7 +2,7 @@
 #profile-update-interval: 4
 #announce: автообновление - 4 часа, техподдержка: @Stas_AURA_VPN_Helper. с началом весны💐 
 
-vless://d7e0cd97-a245-48aa-87b0-8539068e36ba@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 1. 🌸БЕЛАЯ РОССИЯ
+vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@109.120.189.160:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. 🌸БЕЛАЯ РОССИЯ
 
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 2. 🌸БЕЛАЯ РОССИЯ
 
@@ -23,10 +23,10 @@ ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. �
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#🇩🇪 11. 🌸ГЕРМАНИЯ
 
-vless://d68d1343-6a39-4770-9f3f-7c73c60a320c@213.176.18.99:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=telegavpn.com#🇨🇭 12. 🌸 ШВЕЙЦАРИЯ 
+ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#🇫🇷 12. 🌸ФРАНЦИЯ 
 
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.11.48:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.indevs.in#🇹🇷 13. 🌸ТУРЦИЯ
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 13. 🌸СИНГАПУР
 
 vless://d68d1343-6a39-4770-9f3f-7c73c60a320c@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 14. 🌸БЕЛЬГИЯ
 
