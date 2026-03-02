@@ -2,7 +2,7 @@
 #profile-update-interval: 4
 #announce: автообновление - 4 часа, техподдержка: @Stas_AURA_VPN_Helper. с началом весны💐 
 
-vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@109.120.189.160:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=dzen.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. 🌸БЕЛАЯ РОССИЯ
+vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@5.188.141.18:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. 🌸БЕЛАЯ РОССИЯ
 
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 2. 🌸БЕЛАЯ РОССИЯ
 
@@ -10,7 +10,7 @@ vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=realit
 
 vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. 🌸БЕЛАЯ РОССИЯ
 
-vless://34536d24-0423-441e-956d-3b585e3daeb1@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 5. 🌸БЕЛАЯ РОССИЯ
+vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.25.143:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=eh.vk.com&sid=425ba80cd1a821a8#🇷🇺 5. 🌸БЕЛАЯ РОССИЯ
 
 vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@109.120.189.145:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 6. 🌸БЕЛАЯ РОССИЯ
 
@@ -18,7 +18,8 @@ vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@212.193.153.187:443?path=%2F%2F&sec
 
 vless://080556c0-0117-0bb8-b1d9-3708fa8ab8c4@89.208.228.167:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇫🇮 8. 🌸БЕЛАЯ ФИНЛЯНДИЯ 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. 🌸ВЕЛИКОБРИТАНИЯ 
+vless://2c574cca-975e-4b1f-a309-7d880faeb161@83.166.254.144:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=28047c78b3f5ee2c#🇪🇸 9. 🌸БЕЛАЯ ИСПАНИЯ
+
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. 🌸ВЕЛИКОБРИТАНИЯ 
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#🇩🇪 11. 🌸ГЕРМАНИЯ
