@@ -29,7 +29,7 @@ ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.11
 
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 13. 🌸СИНГАПУР
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.66.46:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d#🇦🇹 15. 🌸АВСТРИЯ
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@123.45.67.89:01234?security=tls&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d#14. для GEMINI CHAT GPT и другие
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 15. 🌸ЯПОНИЯ ЮТУБ/ИНСТА
 
