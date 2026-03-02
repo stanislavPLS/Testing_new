@@ -32,5 +32,5 @@ vless://d68d1343-6a39-4770-9f3f-7c73c60a320c@113.30.152.46:443?security=reality&
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 15. 🌸ЯПОНИЯ ЮТУБ/ИНСТА
 
-vless://1c1447e8-5eb0-4281-a7af-3b3a601310dd@62.60.245.202:8443?security=reality&encryption=none&pbk=7kyVRSCsBRJ-W30oLqoR-M1WTVxea8JFV9lp_ERRnh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=5317f23842140976#🇳🇱 16. 🌸ЮТУБ БЕЗ РЕКЛАМЫ 
+vless://1c1447e8-5eb0-4281-a7af-3b3a601310dd@45.137.188.82:8443?security=reality&encryption=none&pbk=7kyVRSCsBRJ-W30oLqoR-M1WTVxea8JFV9lp_ERRnh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=5317f23842140976#🌐 16. 🌸ЮТУБ БЕЗ РЕКЛАМЫ 
 
