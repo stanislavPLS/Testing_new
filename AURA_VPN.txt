@@ -1,6 +1,6 @@
 #profile-title: 🌸АУРА-ВПН🛡️
-#profile-update-interval: 4
-#announce: 🔄автообновление - 4 часа, 🛡️техподдержка: @Stas_AURA_VPN_Helper. с началом весны💐 
+#profile-update-interval: 6
+#announce: 🔄автообновление - 6 часов, 🛡️техподдержка: @Stas_AURA_VPN_Helper. ❤️бесплатно , быстро, навсегда.
 
 vless://da2d823f-f4e0-07d0-a4f7-f6e2fbeebe0f@46.235.189.157:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 1. 🌸БЕЛАЯ РОССИЯ
 
