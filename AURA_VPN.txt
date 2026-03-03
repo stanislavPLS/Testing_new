@@ -21,7 +21,7 @@ vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.188.156:443?security=realit
 
 vless://b9a3bffe-04a3-4ec4-8cc6-4cd2cdc96ec2@79.137.174.199:8443?security=reality&encryption=none&alpn=networld_vpn-channel%252540.networld_vpn-channel%252540.networld_vpn-channel%252540.networld_vpn-channel%252540.networld_vpn-channel%252540.networld_vpn-channel%252540.networld_vpn-&pbk=AnxWLJuRRDt5_RtfvKhd11toTA2qsPATu2sBKsryWSU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fe1bba2e#🇳🇱 9. 🌸БЕЛЫЕ НИДЕРЛАНДЫ 
 
-vless://6ead0279-b05e-0002-a7bd-81710d74bef4@84.23.53.91:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#🇺🇸 10. 🌸 США
+ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. 🌸 США
 
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 11. 🌸ВЕЛИКОБРИТАНИЯ 
 
