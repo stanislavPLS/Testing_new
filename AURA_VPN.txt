@@ -31,10 +31,12 @@ ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.11
 
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 14. 🌸СИНГАПУР
 
-vless://6ead0279-b05e-003d-a7bd-81710d74bef4@cloud.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&sid=43dcff53849b81e6#🇪🇬 15. ЕГИПЕТ НАНО
+vless://c20eaa02-bdbd-4796-8c2e-7c4f395a284f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=91adf1fbe5772c61#ПРОТИВ БЛОКИРОВКИ ТГ | тест 
+
+
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 16. 🌸для GEMINI CHAT GPT и другие
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 17. 🌸ЯПОНИЯ ЮТУБ/ИНСТА
 
-vless://663482d5-f3c9-4ff1-81fe-ef67f5658b51@45.137.188.82:8443?security=reality&encryption=none&pbk=oC6GIHHfHlR-CiX97CMsLBqshP6p30zn4w-iT7TJk18&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=9bb56e7315d4cabc#🇷🇺 18. 🌸ЮТУБ БЕЗ РЕКЛАМЫ
+vless://c20eaa02-bdbd-4796-8c2e-7c4f395a284f@95.85.252.194:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.mcqueenconnection.ru&sid=59f5cda53ddadac7#🇷🇺 18. 🌸ЮТУБ БЕЗ РЕКЛАМЫ
 
