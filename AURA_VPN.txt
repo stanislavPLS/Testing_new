@@ -37,3 +37,4 @@ ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 16. дл
 
 ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇷🇺 17. для GEMINI CHAT GPT и другие
 
+vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.85.252.194:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.mcqueenconnection.ru&sid=59f5cda53ddadac7#🇷🇺 18. ЮТУБ БЕЗ РЕКЛАМЫ 
