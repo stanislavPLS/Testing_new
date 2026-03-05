@@ -1,6 +1,6 @@
 #profile-title: 🌸АУРА-ВПН🛡️
 #profile-update-interval: 6
-#announce: 🔄автообновление - 6 часов, 🛡️техподдержка: @Stas_AURA_VPN_Helper. 🤑бесплатно , быстро, навсегда.
+#announce: 🔄автообновление - 6 часов🔄. 🛡️техподдержка: @Stas_AURA_VPN_Helper🛡️. 🤑бесплатно , быстро, навсегда🤑.
 
 
 
@@ -22,7 +22,7 @@ vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.164:443?security=reality&e
 
 vless://ffc7f5a9-a1f5-446b-abe0-a841a04f4240@access-fl15.agveit.pro:443?security=reality&encryption=none&pbk=hGydpZcQoEQHwTTtwTf0Lai6MqGOHhvUJtUlONunh2c&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=584053d3c479a4fc#🇫🇮 9. 🌸БЕЛАЯ ФИНЛЯНДИЯ 
 
-ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. 🌸 США
+ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. 🌸США
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 11. 🌸ВЕЛИКОБРИТАНИЯ НАНО
 
@@ -34,7 +34,7 @@ ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 14. �
 
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 15. 🌸для GEMINI CHAT GPT и другие
 
-ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇺🇸 16. 🌸для GEMINI CHAT GPT и другие
+ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇷🇺 16. 🌸для GEMINI CHAT GPT и другие
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 17. 🌸ЯПОНИЯ ЮТУБ/ИНСТА
 
@@ -45,6 +45,7 @@ vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&path=%2Fcompass%2Fcdn&security=
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&allowinsecure=0&type=ws#🇷🇺 20. 🌸AuraConnectTEST
 
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMjEuIPCfjLjQmNCg0JDQnSDQndCQ0J3QniIsInNjeSI6Im5vbmUiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e38J+HuiAyMi4gQXVyYUNvbm5lY3RYdHJlbWUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 
