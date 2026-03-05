@@ -2,35 +2,35 @@
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов, 🛡️техподдержка: @Stas_AURA_VPN_Helper. 🤑бесплатно , быстро, навсегда.
 
+
+
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. 🌸БЕЛАЯ РОССИЯ
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. 🌸БЕЛАЯ РОССИЯ
 
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 3. 🌸БЕЛАЯ РОССИЯ
 
-vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@5.188.140.37:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. 🌸БЕЛАЯ РОССИЯ
+vless://c20eaa02-bdbd-4796-8c2e-7c4f395a284f@95.163.210.157:443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=fb13b0dd6c93b21c#🇷🇺 4. 🌸БЕЛАЯ РОССИЯ
 
 vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.31.236:443?security=reality&encryption=none&pbk=RoB91ttXT8mkR2WITrvNc9gV7plyLWS4xbVxCmzOKF0&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=arthemis-recuperation.com#🇷🇺 5. 🌸БЕЛАЯ РОССИЯ
 
-
-vless://5aa188ea-db1b-4121-82f8-4eb1452cc052@51.250.103.29:443?security=reality&encryption=none&pbk=LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 6. 🌸БЕЛАЯ РОССИЯ
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@212.113.99.50:8443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#🇷🇺 6. 🌸БЕЛАЯ РОССИЯ
 
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 7. 🌸БЕЛАЯ РОССИЯ
 
-vless://2478528e-ecad-4134-a7cc-878f08a76865@194.55.235.146:443?security=reality&encryption=none&pbk=bqoZnQgCG5B4vLKc-mgL-CHRI06Q0H1bv9zBcpo9zjE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru.vitalik.space&sid=28a059440d3d5ba1#🇷🇺 8. 🌸БЕЛАЯ РОССИЯ
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.164:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 8. 🌸БЕЛАЯ РОССИЯ
 
-vless://9cb4a002-781a-4c40-b6b7-50981135e15c@51.250.64.147:7445?security=reality&encryption=none&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇳🇱 9. 🌸БЕЛЫЕ НИДЕРЛАНДЫ 
+vless://ffc7f5a9-a1f5-446b-abe0-a841a04f4240@access-fl15.agveit.pro:443?security=reality&encryption=none&pbk=hGydpZcQoEQHwTTtwTf0Lai6MqGOHhvUJtUlONunh2c&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=584053d3c479a4fc#🇫🇮 9. 🌸БЕЛАЯ ФИНЛЯНДИЯ 
 
 ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. 🌸 США
 
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 11. 🌸ВЕЛИКОБРИТАНИЯ 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 11. 🌸ВЕЛИКОБРИТАНИЯ НАНО
 
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#🇩🇪 12. 🌸ГЕРМАНИЯ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩🇪 12. 🌸ГЕРМАНИЯ НАНО
 
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#🇫🇷 13. 🌸ФРАНЦИЯ 
 
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 14. 🌸СИНГАПУР
-
 
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 15. 🌸для GEMINI CHAT GPT и другие
 
@@ -40,7 +40,11 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#🇯🇵 17. 🌸
 
 vless://c20eaa02-bdbd-4796-8c2e-7c4f395a284f@95.85.252.194:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.mcqueenconnection.ru&sid=59f5cda53ddadac7#🇷🇺 18. 🌸ЮТУБ БЕЗ РЕКЛАМЫ
 
-vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&path=%2Fcompass%2Fcdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#19. 🌸AuraConnectTelegram
+vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&path=%2Fcompass%2Fcdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#🇷🇺 19. 🌸AuraConnectTelegram
 
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&allowinsecure=0&type=ws#20. 🌸AuraConnectTEST
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&allowinsecure=0&type=ws#🇷🇺 20. 🌸AuraConnectTEST
+
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e38J+HuiAyMi4gQXVyYUNvbm5lY3RYdHJlbWUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+
 
