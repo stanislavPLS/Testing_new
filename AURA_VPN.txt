@@ -2,39 +2,38 @@
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда.
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. БЕЛАЯ РОССИЯ
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. БЕЛАЯ РОССИЯ
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 3. AuraHostRussia
+vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 3. БЕЛАЯ РОССИЯ
 
-vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.163.210.157:443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=91adf1fbe5772c61#🇷🇺 4. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 4. AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. БЕЛАЯ РОССИЯ
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 6. БЕЛАЯ РОССИЯ
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 6. AuraHostRussia
 
-vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 7. БЕЛАЯ РОССИЯ
+vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.163.210.157:443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=91adf1fbe5772c61#🇷🇺 7. AuraHostRussia
+
+vless://187f789a-8a5e-42f3-984b-ed87946b300f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=9fc5b5f2a51deccb#🇷🇺 8. AuraHostRussia 
 
 
-vless://fd325093-cdb5-4a73-980e-af2ec0444310@144.31.234.98:443?security=reality&encryption=none&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=retn.net#🇳🇱 8. БЕЛЫЕ НИДЕРЛАНДЫ 
+vless://fd325093-cdb5-4a73-980e-af2ec0444310@144.31.234.98:443?security=reality&encryption=none&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=retn.net#🇳🇱 9. БЕЛЫЕ НИДЕРЛАНДЫ 
 
-vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇫🇮 9. БЕЛАЯ ФИНЛЯНДИЯ 
+vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇫🇮 10. БЕЛАЯ ФИНЛЯНДИЯ 
 
-ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. США
+ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 11. США
 
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?path=%2Flove&security=tls&encryption=none&host=bank.alaska-tigr.info&fp=chrome&allowinsecure=0&type=ws&sni=bank.alaska-tigr.info#🇬🇧 11. БЕЛАЯ ВЕЛИКОБРИТАНИЯ 
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.103.130:8443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&allowinsecure=0&type=ws&sni=sni.111000.indevs.in#🇫🇷 12. ФРАНЦИЯ 
 
-vless://421a5536-c3c8-45ab-aa36-2ff032c6d44e@188.114.97.3:80?path=%2Fvless-ntls&security=none&encryption=none&host=nnet.online&type=ws#🇩🇪 12. БЕЛАЯ ГЕРМАНИЯ
+vless://Goose_24347454@91.210.109.230:443?mode=gun&security=reality&encryption=none&authority=&pbk=Gg3Fn1HKuVfk18ZGYDW8LzdfLYu5lLJrxw4jIyh-yHY&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=ffffffffff#🇳🇱 13. НИДЕРЛАНДЫ
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.103.130:8443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&allowinsecure=0&type=ws&sni=sni.111000.indevs.in#🇫🇷 13. ФРАНЦИЯ 
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTQuINCY0KDQkNCdIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://Goose_24347454@91.210.109.230:443?mode=gun&security=reality&encryption=none&authority=&pbk=Gg3Fn1HKuVfk18ZGYDW8LzdfLYu5lLJrxw4jIyh-yHY&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=ffffffffff#🇳🇱 14. НИДЕРЛАНДЫ
+ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 15. для GEMINI CHAT GPT и другие
 
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTUuINCY0KDQkNCdIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 16. для GEMINI CHAT GPT и другие
-
-ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng==@167.17.179.197:60129#🇷🇺 17. для GEMINI CHAT GPT и другие
+ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng==@167.17.179.197:60129#🇷🇺 16. для GEMINI CHAT GPT и другие
 
 vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.85.252.194:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.mcqueenconnection.ru&sid=59f5cda53ddadac7#🇷🇺 18. ЮТУБ БЕЗ РЕКЛАМЫ 
