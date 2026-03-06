@@ -11,9 +11,9 @@ vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&e
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 4. AuraHost | 🏳️ Premium
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com🇷🇺 5. AuraHost | 🏳️ Premium
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. AuraHost | 🏳️ Premium
 
-vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.163.210.157:443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=91adf1fbe5772c61🇷🇺 6. AuraHost | 🏳️ Premium
+vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.163.210.157:443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=91adf1fbe5772c61#🇷🇺 6. AuraHost | 🏳️ Premium
 
 vless://187f789a-8a5e-42f3-984b-ed87946b300f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=9fc5b5f2a51deccb#🇷🇺 7. AuraHost | 🏳️ Premium 
 
