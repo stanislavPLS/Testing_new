@@ -13,17 +13,17 @@ vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&e
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. 🏳️AuraHostRussia
 
-vless://187f789a-8a5e-42f3-984b-ed87946b300f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=9fc5b5f2a51deccb#🇷🇺 6. 🏳️AuraHostRussia
+vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:666?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&pbk=mWb_3YIKTOfih4ZDow1NYsx00Mcrgafi56IwzaFQViU&sid=e5fa9569c4d0cb5e&encryption=none#🇷🇺 6. 🏳️ AuraHostRussia | Premium
 
-vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:8443?security=reality&encryption=none&pbk=AY1lWzENDbGclkHIhIm26jryfM_MrG-IaaxRrzNi4gQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e5fa9569c4d0cb5e#🇷🇺 7. 🏳️AuraHostRussia | Premier 
+vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:8443?security=reality&encryption=none&pbk=AY1lWzENDbGclkHIhIm26jryfM_MrG-IaaxRrzNi4gQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e5fa9569c4d0cb5e#🇷🇺 7. 🏳️AuraHostRussia | Premium
 
-vless://dbd153b6-b753-441c-901b-f11867c44c47@ru-w-5.hotvpn.cc:443?security=reality&encryption=none&pbk=pIOTtnwABgxn-BzmPd1ME34Aey5owRB5jYUZhPT84Sk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇩🇪 8. 🏳️AuraHostGermany | Premier 
+vless://dbd153b6-b753-441c-901b-f11867c44c47@ru-w-5.hotvpn.cc:443?security=reality&encryption=none&pbk=pIOTtnwABgxn-BzmPd1ME34Aey5owRB5jYUZhPT84Sk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇩🇪 8. 🏳️AuraHostGermany | Premium 
 
 ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 9. AuraHostUSA
 
 vless://Goose_24347454@91.210.109.230:443?mode=gun&security=reality&encryption=none&authority=&pbk=Gg3Fn1HKuVfk18ZGYDW8LzdfLYu5lLJrxw4jIyh-yHY&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=ffffffffff#🇳🇱 10. AuraHostNetherlands
 
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTEuIEF1cmFIb3N0SXJhbiB8IFByZW1pZXIiLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTEuIEF1cmFIb3N0SXJhbiB8IFByZW1pdW0iLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩🇪 12. AuraHostGermany
 
