@@ -23,11 +23,11 @@ vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.153.187:443?path=%2F%2F&sec
 
 ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. США
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 11. ВЕЛИКОБРИТАНИЯ 
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?path=%2Flove&security=tls&encryption=none&host=bank.alaska-tigr.info&fp=chrome&allowinsecure=0&type=ws&sni=bank.alaska-tigr.info#🇬🇧 11. БЕЛАЯ ВЕЛИКОБРИТАНИЯ 
 
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#🇩🇪 12. 🌸ГЕРМАНИЯ
+vless://421a5536-c3c8-45ab-aa36-2ff032c6d44e@188.114.97.3:80?path=%2Fvless-ntls&security=none&encryption=none&host=nnet.online&type=ws#🇩🇪 12. БЕЛАЯ ГЕРМАНИЯ
 
-ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#🇫🇷 13. ФРАНЦИЯ 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.103.130:8443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&allowinsecure=0&type=ws&sni=sni.111000.indevs.in#🇫🇷 13. ФРАНЦИЯ 
 
 vless://Goose_24347454@91.210.109.230:443?mode=gun&security=reality&encryption=none&authority=&pbk=Gg3Fn1HKuVfk18ZGYDW8LzdfLYu5lLJrxw4jIyh-yHY&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=ffffffffff#🇳🇱 14. НИДЕРЛАНДЫ
 
@@ -35,6 +35,6 @@ vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJh
 
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 16. для GEMINI CHAT GPT и другие
 
-ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇷🇺 17. для GEMINI CHAT GPT и другие
+ss://YWVzLTI1Ni1nY206MDY5MDY1OTc0Njk4MGM0Ng==@167.17.179.197:60129#🇷🇺 17. для GEMINI CHAT GPT и другие
 
 vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.85.252.194:443?security=reality&encryption=none&pbk=O2ttHpVFmwoAf-E1rHgOlv7NggcwxcWkHHen7jkIBjY&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.mcqueenconnection.ru&sid=59f5cda53ddadac7#🇷🇺 18. ЮТУБ БЕЗ РЕКЛАМЫ 
