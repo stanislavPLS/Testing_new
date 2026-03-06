@@ -17,7 +17,7 @@ vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.163.210.157:443?security=reality
 
 vless://187f789a-8a5e-42f3-984b-ed87946b300f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=9fc5b5f2a51deccb#🇷🇺 7. AuraHost | 🏳️ Premium 
 
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#🇷🇺 8. AuraHost | 🔄restarting
+vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:8443?security=reality&encryption=none&pbk=AY1lWzENDbGclkHIhIm26jryfM_MrG-IaaxRrzNi4gQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e5fa9569c4d0cb5e#🇷🇺 8. AuraHost | 🏳️ Mega
 
 ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 9. США
 
