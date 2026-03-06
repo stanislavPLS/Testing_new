@@ -2,22 +2,22 @@
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда. 
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. 🏳️AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. 🏳️AuraHostRussia
 
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 3. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 3. 🏳️AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 4. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 4. 🏳️AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. 🏳️AuraHostRussia
 
-vless://187f789a-8a5e-42f3-984b-ed87946b300f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=9fc5b5f2a51deccb#🇷🇺 6. AuraHostRussia
+vless://187f789a-8a5e-42f3-984b-ed87946b300f@81.200.151.215:1443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=9fc5b5f2a51deccb#🇷🇺 6. 🏳️AuraHostRussia
 
-vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:8443?security=reality&encryption=none&pbk=AY1lWzENDbGclkHIhIm26jryfM_MrG-IaaxRrzNi4gQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e5fa9569c4d0cb5e#🇷🇺 7. AuraHostRussia | Premier 
+vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:8443?security=reality&encryption=none&pbk=AY1lWzENDbGclkHIhIm26jryfM_MrG-IaaxRrzNi4gQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e5fa9569c4d0cb5e#🇷🇺 7. 🏳️AuraHostRussia | Premier 
 
-vless://dbd153b6-b753-441c-901b-f11867c44c47@ru-w-5.hotvpn.cc:443?security=reality&encryption=none&pbk=pIOTtnwABgxn-BzmPd1ME34Aey5owRB5jYUZhPT84Sk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇩🇪 8. AuraHostGermany | 🏳️ Premier 
+vless://dbd153b6-b753-441c-901b-f11867c44c47@ru-w-5.hotvpn.cc:443?security=reality&encryption=none&pbk=pIOTtnwABgxn-BzmPd1ME34Aey5owRB5jYUZhPT84Sk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇩🇪 8. 🏳️AuraHostGermany | Premier 
 
 ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 9. AuraHostUSA
 
