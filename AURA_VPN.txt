@@ -2,16 +2,16 @@
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда. 
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. 🏳️AuraHostRussia
+vless://aadcbd09-b0d0-42a5-b103-f18ae322bc9f@178.250.243.211:443?security=reality&encryption=none&pbk=USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f67d7ff6d5fc5e0c#🇷🇺 1. 🏳️AuraHostRussia
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. 🏳️AuraHostRussia
 
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 3. 🏳️AuraHostRussia
+vless://b3203210-2e42-468a-ad7d-5da9b9a1bac4@212.192.14.250:64527?security=reality&encryption=none&pbk=wAKyTOUr89tJU2pVUVrwt0dAsxmNfRHXhPQ3IvyGshc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yandex.ru&sid=56abcac460c7c6ca#🇷🇺 3. 🏳️AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 4. 🏳️AuraHostRussia
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#🇷🇺 4. 🏳️AuraHostRussia | Base
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. 🏳️AuraHostRussia
+vless://dbd153b6-b753-441c-901b-f11867c44c47@node-msk-1.hotvpn.cc:443?security=reality&encryption=none&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇷🇺 5. 🏳️AuraHostRussia | Premium 
 
 vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:666?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&pbk=mWb_3YIKTOfih4ZDow1NYsx00Mcrgafi56IwzaFQViU&sid=e5fa9569c4d0cb5e&encryption=none#🇷🇺 6. 🏳️ AuraHostRussia | Premium
 
