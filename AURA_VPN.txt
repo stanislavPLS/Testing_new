@@ -29,7 +29,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩�
 
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#🇫🇷 13. AuraHostFrance
 
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 14. AuraHostRussia | GEMINI, CHAT GPT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇷🇺 14. AuraHostRussia | GEMINI, CHAT GPT
 
 vless://dbd153b6-b753-441c-901b-f11867c44c47@node-msk-1.hotvpn.cc:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&fp=chrome&pbk=ABr6RxnvLxAgqb7YKtDUFiKkM8m50BnC06nxNro5HBk&encryption=none#🇷🇺 AuraHostRussia | YouTube No ADS
 
