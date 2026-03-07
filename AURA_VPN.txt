@@ -4,10 +4,9 @@
 
 vless://aadcbd09-b0d0-42a5-b103-f18ae322bc9f@178.250.243.211:443?security=reality&encryption=none&pbk=USofQYv7kUY03-QU-HllZ_QrE_9fft_zJMpSKsrybm8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f67d7ff6d5fc5e0c#🇷🇺 1. 🏳️AuraHostRussia
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. 🏳️AuraHostRussia
+vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 2. 🏳️AuraHostRussia
 
-
-vless://b3203210-2e42-468a-ad7d-5da9b9a1bac4@212.192.14.250:64527?security=reality&encryption=none&pbk=wAKyTOUr89tJU2pVUVrwt0dAsxmNfRHXhPQ3IvyGshc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yandex.ru&sid=56abcac460c7c6ca#🇷🇺 3. 🏳️AuraHostRussia
+vless://ad3cb998-d8e9-4b6b-97cf-a711d90f5d56@84.201.135.143:443?security=reality&encryption=none&pbk=mEYc5phwgGJrcY-dM5ivPEgjKDTC0q6ztMFoOJrTcW8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=disk.yandex.ru&sid=802dd47b#🇷🇺 3. 🏳️AuraHostRussia
 
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#🇷🇺 4. 🏳️AuraHostRussia | Base
 
