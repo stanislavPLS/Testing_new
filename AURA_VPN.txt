@@ -19,9 +19,9 @@ vless://e34509d7-8169-499b-a05c-e635b9cc2446@vk.pad-service.com:8443?security=re
 
 vless://dbd153b6-b753-441c-901b-f11867c44c47@ru-w-5.hotvpn.cc:443?security=reality&encryption=none&pbk=pIOTtnwABgxn-BzmPd1ME34Aey5owRB5jYUZhPT84Sk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#🇩🇪 8. 🏳️AuraHostGermany | Premium 
 
-ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 9. AuraHostUSA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 9. AuraHostGreatBritain 
 
-vless://Goose_24347454@91.210.109.230:443?mode=gun&security=reality&encryption=none&authority=&pbk=Gg3Fn1HKuVfk18ZGYDW8LzdfLYu5lLJrxw4jIyh-yHY&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=ffffffffff#🇳🇱 10. AuraHostNetherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#🇮🇹 10. AuraHostItaly
 
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTEuIEF1cmFIb3N0SXJhbiB8IFByZW1pdW0iLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
