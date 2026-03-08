@@ -29,9 +29,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩�
 
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#🇫🇷 13. AuraHostFrance
 
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7clIDE0LiBBdXJhSG9zdElyYW4iLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTQuIEF1cmFIb3N0SXJhbiIsInNjeSI6Im5vbmUiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#🇷🇺 15. ДЛЯ ИИ
 
-vless://f4d83973-2a12-4f00-a1aa-fd703c319996@144.31.129.96:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vecherka.tj&fp=qq&pbk=iRcnLfOuKd7vsOWrJiXnoA2iddFE1uH-zr0ITmYNXkM&sid=15affa0af66dfc79&type=tcp#🇹🇯 Ютуб%%2200без%%2200рекламы
+vless://f4d83973-2a12-4f00-a1aa-fd703c319996@144.31.129.96:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vecherka.tj&fp=qq&pbk=iRcnLfOuKd7vsOWrJiXnoA2iddFE1uH-zr0ITmYNXkM&sid=15affa0af66dfc79&type=tcp#🇹🇯%Ютуб%без%рекламы
 
