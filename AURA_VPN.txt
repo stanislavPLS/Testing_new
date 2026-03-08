@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда. 
 
-vless://c970f910-1103-446a-bdc8-a9cfb22381bf@95.163.214.216:20443?security=reality&encryption=none&pbk=m5JYM9JhDND2wtSGcTYyediFMXoyJia9xfUy-HA6fhM&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=69cba355948aa01c# 1. 🏳️AuraHostExpress
+vless://10ac5c63-c100-4c59-95c0-9f210315609e@rus.fasti.win:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rus.fasti.win&sid=feedbacc#🇷🇺 1. 🏳️AuraHostRussia
 
 vless://ad3cb998-d8e9-4b6b-97cf-a711d90f5d56@84.201.135.143:443?security=reality&encryption=none&pbk=mEYc5phwgGJrcY-dM5ivPEgjKDTC0q6ztMFoOJrTcW8&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=disk.yandex.ru&sid=802dd47b#🇷🇺 2. 🏳️AuraHostRussia
 
