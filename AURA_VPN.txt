@@ -18,7 +18,7 @@ trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&secu
 
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#🇷🇺 8. 🏳️БелСПИСКИ | ПРЕМИУМ
 
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjc1MDIiLCJwcyI6IvCfh7Lwn4e9IDkuINCR0LXQu9Ch0J/QmNCh0JrQmCDQnNCV0JrQodCY0JrQkCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjc1MDIiLCJwcyI6IvCfh7Lwn4e9IDkuIPCfj7PvuI/QkdC10LvQodCf0JjQodCa0Jgg0JzQldCa0KHQmNCa0JAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbGxvd2luc2VjdXJlIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HuvCfh7ggMTAuIPCfj7PvuI/QkdC10LvQodCf0JjQodCa0Jgg0KHQqNCQIiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
@@ -26,9 +26,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 
 vless://c67f81df-34e8-4cb3-ab43-599585775fa9@144.31.1.186:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&host=web.max.ru&fp=qq&allowinsecure=0&type=xhttp&sni=web.max.ru&sid=0123456789abcdef#🇵🇱 12. ПОЛЬША
 
-
-vless://e85a49c6-c627-4fdc-a6d7-0db59e0000d6@84.252.133.167:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34# 13. УСКОРЕНИЕ ТГ {БЕТА}
+vless://8f17043d-fae6-42c1-8371-3ea1289eba0f@185.221.199.172:443?mode=gun&security=reality&encryption=none&authority=&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&fp=qq&allowinsecure=0&type=grpc&serviceName=xyz&sni=ads.x5.ru&sid=6ba85179e30d4fc2#🇷🇺 13. Ускорение ТГ 
 
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTQuINCY0KDQkNCdIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://8f17043d-fae6-42c1-8371-3ea1289eba0f@95.85.235.116:443?mode=gun&security=reality&encryption=none&authority=&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE&allowinsecure=0&type=grpc&serviceName=&sni=de.ookcdn.ru# бета для плюшек {%%%‽%%%}
