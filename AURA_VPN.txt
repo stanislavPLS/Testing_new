@@ -4,9 +4,9 @@
 
 vless://1b8650d4-13b9-07d0-a9f7-670df3afa6b6@5.188.143.51:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. 🏳️БелСПИСКИ
 
-vless://d4d30169-8f95-4178-abf6-2f9541c76907@84.201.179.202:9443?security=reality&encryption=none&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#🇷🇺 2. 🏳️БелСПИСКИ
+vless://1b8650d4-13b9-07d0-a9f7-670df3afa6b6@5.188.140.178:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 2. 🏳️БелСПИСКИ
 
-hysteria2://727cd454-2df4-4ae9-9ad1-78f7d9823d30@de.xn--ehqa22b.site:21606?security=tls&allowinsecure=1&sni=de.xn--ehqa22b.site#🇷🇺 3. 🏳️БелСПИСКИ | НОВЫЕ
+vless://ab9a202a-d0b2-07d0-95e5-d6f373a1ab35@5.188.140.178:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 3. 🏳️БелСПИСКИ
 
 vless://ab9a202a-d0b2-07d0-95e5-d6f373a1ab35@5.188.142.221:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. 🏳️БелСПИСКИ
 
