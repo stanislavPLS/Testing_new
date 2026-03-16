@@ -4,7 +4,7 @@
 
 vless://d46f01f8-ce9a-4e1b-a4d6-1a4edb2332ad@nl0.mambo-jambo.ru:443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=dde66ef1#🇷🇺 1. Ускорение ТГ 
 
-vless://65259548-1d98-07d0-a7f9-1937927c68e9@109.120.188.201:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 2. 🏳️БелСПИСКИ
+vless://762ac11c-a46e-42ae-b20c-f6248a0a655a@158.160.35.160:443?mode=gun&security=reality&encryption=none&authority=&pbk=AYlrssblYepzA3yCbw1ETHfYNPjpyrdi1NDYjyu57mk&allowinsecure=0&type=grpc&serviceName=&sni=web.max.ru#🇷🇺 2. 🏳️БелСПИСКИ | ВРЕМЕННЫЙ ТЕСТ 
 
 vless://65259548-1d98-07d0-a7f9-1937927c68e9@109.120.190.247:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 3. 🏳️БелСПИСКИ
 
