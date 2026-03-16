@@ -27,3 +27,5 @@ vless://970e232e-50d9-4ef5-acb3-27b54d74f0a6@178.154.193.70:443?security=reality
 
 vless://9b86f133-0e92-4346-a0a2-b988aeb69077@89.169.172.4:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=2715592069f36fe7#🇭🇺 10. ВЕНГРИЯ
 
+vless://3400905c-2d69-492d-b516-e03b9c4a522c@217.60.249.112:9443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&pbk=FxIBDSWCNvavM2KWj1Nwiab03uo0xG4r9NME9FmCJCo&spx=%2F&allowinsecure=0&type=xhttp&sni=01.img.avito.st# 11. игры тест
+
