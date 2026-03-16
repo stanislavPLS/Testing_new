@@ -5,7 +5,7 @@
 vless://1234abcd-ab12-ab12-12ab-987654321012@0.1.2.3:45678?mode=gun&security=reality&encryption=none&authority=&pbk=AYlrssblYepzA3yCbw1ETHfYNPjpyrdi1NDYjyu57mk&allowinsecure=0&type=grpc&serviceName=&sni=web.max.ru#ВРЕМЕННО ОБЫЧНЫЕ БЕЛЫЕ СПИСКИ НЕ РАБОТАЮТ!
 
 
-vless://242fb08a-8308-42af-91b7-a976a488b08d@51.250.75.192:8447?security=reality&encryption=none&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 1. Ускорение ТГ 
+vless://d38a36db-4fea-49a8-b6e7-adf2e605abc4@51.250.75.192:8447?security=reality&encryption=none&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 1. Ускорение ТГ 
 
 vless://7dbbd349-8ba7-41e5-8ce6-4bda30e17ce8@5.42.98.4:2053?security=reality&encryption=none&pbk=kFvVObeyYi6BUNGxTzOwvuY_SKxgd9nWQuHaccbp4TM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a1b2c3d4#🇷🇺 2. 🏳️БелСПИСКИ | НЕО
 
