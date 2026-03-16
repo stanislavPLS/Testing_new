@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда. 
 
-vless://65259548-1d98-2710-a7f9-1937927c68e9@89.208.229.144:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. Ускорение ТГ 
+vless://d46f01f8-ce9a-4e1b-a4d6-1a4edb2332ad@nl0.mambo-jambo.ru:443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=dde66ef1#🇷🇺 1. Ускорение ТГ 
 
 vless://65259548-1d98-07d0-a7f9-1937927c68e9@109.120.188.201:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 2. 🏳️БелСПИСКИ
 
@@ -12,11 +12,11 @@ vless://65259548-1d98-07d0-a7f9-1937927c68e9@5.188.141.170:443?security=reality&
 
 vless://65259548-1d98-07d0-a7f9-1937927c68e9@37.139.33.159:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 5. 🏳️БелСПИСКИ
 
-vless://65259548-1d98-07d0-a7f9-1937927c68e9@89.208.231.91:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 6. 🏳️БелСПИСКИ | НЕО
+vless://7dbbd349-8ba7-41e5-8ce6-4bda30e17ce8@5.42.98.4:2053?security=reality&encryption=none&pbk=kFvVObeyYi6BUNGxTzOwvuY_SKxgd9nWQuHaccbp4TM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a1b2c3d4#🇷🇺 6. 🏳️БелСПИСКИ | НЕО
 
-vless://7b7b6325-bbd2-4350-8fc8-29df7441937e@84.201.179.202:9443?security=reality&encryption=none&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru#🇷🇺 7. 🏳️БелСПИСКИ | НЕО
+vless://7dbbd349-8ba7-41e5-8ce6-4bda30e17ce8@178.154.219.42:2053?security=reality&encryption=none&pbk=kFvVObeyYi6BUNGxTzOwvuY_SKxgd9nWQuHaccbp4TM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=1234abcd#🇷🇺 7. 🏳️БелСПИСКИ | НЕО
 
-vless://2563b829-866c-4c0f-8270-a91cffbfe852@51.250.119.215:7443?mode=gun&security=reality&encryption=none&authority=&pbk=WNsIqrfrK3gEmFFkeP2Ja8lvt9vGpFyxV612QdqYPC8&fp=firefox&allowinsecure=0&type=grpc&serviceName=grpc&sni=max.ru&sid=489da765#🇷🇺 8. 🏳️БелСПИСКИ | НЕО
+vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.139.33.17:1505?security=reality&encryption=none&echfq=none&pbk=2YCYnPqsLgEgKPyjwE0MJJ0xV13Daeg3WN7wDrAdD3I&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gp.x5.ru#%F0%9F%87%B7%F0%9F%87%BA+8.++%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98+%7C+%D0%9F%D0%A0%D0%95%D0%9C%D0%98%D0%A3%D0%9C
 
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#🇷🇺 9. 🏳️БелСПИСКИ | ПРЕМИУМ
 
