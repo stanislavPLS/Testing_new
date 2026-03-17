@@ -14,7 +14,7 @@ trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&secu
 
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#🇷🇺 6. 🏳️БелСПИСКИ | ПРЕМИУМ
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVDctWkY3ZjZYcTZLQW1XLWJBNmcxakJLbU5WOVhiOA@217.60.249.112:1080#🇺🇸 7. США
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVDctWkY3ZjZYcTZLQW1XLWJBNmcxakJLbU5WOVhiOA==@217.60.249.112:1080#🇺🇸 7. США
 
 vless://5cc89a7c-1b6e-4a84-bada-d23ea582860a@212.111.85.60:443?security=reality&encryption=none&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=damvk.funvideorus.net&sid=12b4bc7ca90e01#🇩🇪 8. ГЕРМАНИЯ
 
