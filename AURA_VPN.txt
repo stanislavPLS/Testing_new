@@ -1,6 +1,6 @@
 #profile-title: 🌸АУРА-ВПН🛡️
-#profile-update-interval: 0.5
-#announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда. 
+#profile-update-interval: 1
+#announce: 🔄автообновление - 1 час, но вы всё равно частенько обновляйте подписку. пользуйтесь 
 
 vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@s43769.cdn.ngenix.net:443?path=%2F&security=tls&encryption=none&host=s43769.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s43769.cdn.ngenix.net#🇷🇺 1. УСКОРЕНИЕ ТЕЛЕГРАММ 
 
