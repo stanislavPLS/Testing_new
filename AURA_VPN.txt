@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #announce: 🔄автообновление - 1 час, но вы всё равно частенько обновляйте подписку. пользуйтесь 
 
-vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@s43769.cdn.ngenix.net:443?path=%2F&security=tls&encryption=none&host=s43769.cdn.ngenix.net&fp=qq&allowinsecure=0&type=ws&sni=s43769.cdn.ngenix.net#🇷🇺 1. УСКОРЕНИЕ ТЕЛЕГРАММ 
+vless://f4ab40c6-3f49-07d0-83ac-24362c278c06@89.208.231.191:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. УСКОРЕНИЕ ТЕЛЕГРАММ 
 
 vless://997bc475-4621-4612-8337-cc55a0cb68ab@lv2.fastdbn.com:5001?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&fp=qq&allowinsecure=0&type=grpc&serviceName=downloads.3cx.com&sni=downloads.3cx.com#%F0%9F%87%B7%F0%9F%87%BA+2.+%D0%A3%D0%A1%D0%9A%D0%9E%D0%A0%D0%95%D0%9D%D0%98%D0%95+%D0%A2%D0%95%D0%9B%D0%95%D0%93%D0%A0%D0%90%D0%9C%D0%9C
 
@@ -10,11 +10,11 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.192.104:443?path=Telegram%F0
 
 vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@109.120.189.133:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. 🏳️БелСПИСКИ
 
-vless://1609d73a-aad5-4215-b25d-908e3e3412de@185.147.27.20:52001?security=reality&encryption=none&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179#🇷🇺 5. 🏳️БелСПИСКИ
+vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.139.33.17:1505?security=reality&encryption=none&echfq=none&pbk=2YCYnPqsLgEgKPyjwE0MJJ0xV13Daeg3WN7wDrAdD3I&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gp.x5.ru#%F0%9F%87%B7%F0%9F%87%BA+5.++%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98
 
-vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.139.33.17:1505?security=reality&encryption=none&echfq=none&pbk=2YCYnPqsLgEgKPyjwE0MJJ0xV13Daeg3WN7wDrAdD3I&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gp.x5.ru#%F0%9F%87%B7%F0%9F%87%BA+6.++%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98
+vless://0441fda6-a7c0-448f-bd82-097031a767f9@178.154.206.7:443?security=reality&encryption=none&pbk=_1CdC4TRCkeTD3sHtnnZo2kkCGZkbYzLO2I-mJsWvmk&headerType=none&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=maps.yandex.ru&sid=e4b1c1d5a6f70916#%F0%9F%87%B7%F0%9F%87%BA+6.+%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98+%7C+%D0%9F%D0%A0%D0%95%D0%9C%D0%98%D0%A3%D0%9C
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVDctWkY3ZjZYcTZLQW1XLWJBNmcxakJLbU5WOVhiOA==@217.60.249.112:1080#🇺🇸 7. США
+vless://4e607c90-e3cf-4e02-9d3e-5aa5a5567f71@usap01.jumperservice.com:19001?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#🇺🇸 7. США
 
 vless://a22f6494-f371-01f4-bad0-8df9594b8e45@109.120.189.133:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇩🇪 8. ГЕРМАНИЯ
 
