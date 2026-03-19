@@ -2,17 +2,17 @@
 #profile-update-interval: 1
 #announce: 🔄автообновление - 1 час, но вы всё равно частенько обновляйте подписку. пользуйтесь 
 
-vless://27ce0d34-2500-03e8-89dc-764fa356057d@5.188.141.186:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 1. ⚡УСКОРЕНИЕ ТЕЛЕГРАММ 
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?path=%2FTelegram&security=tls&encryption=none&host=ylnhh.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=ylnhh.cc.cd#🇷🇺 1. УСКОРЕНИЕ ТЕЛЕГРАММ 
 
-vless://27ce0d34-2500-03e8-89dc-764fa356057d@5.188.142.9:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 2. УСКОРЕНИЕ ТЕЛЕГРАММ 
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?path=%2FTelegram%40WangCai2&security=tls&encryption=none&host=ylnhh.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=ylnhh.cc.cd#🇷🇺 2. УСКОРЕНИЕ ТЕЛЕГРАММ 
 
-vless://754dfc91-8b6c-1f40-905f-47480387e8a4@5.188.142.9:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 3. УСКОРЕНИЕ ТЕЛЕГРАММ 
+vless://6cabb434-f480-478a-9586-a5667167eeb1@95.163.180.152:8443?mode=auto&path=%2Fapi%2Fmaps&security=reality&encryption=none&pbk=YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI&host=5post-gate-test.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=5post-gate-test.x5.ru#🇷🇺 3. УСКОРЕНИЕ ТЕЛЕГРАММ 
 
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@109.120.180.65:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#🇷🇺 4. 🏳️БелСПИСКИ
+vless://e301eb29-8d52-07d0-83dd-1b7a42a6a2b2@89.208.231.232:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#🇷🇺 4. 🏳️БелСПИСКИ
 
 vless://e301eb29-8d52-07d0-83dd-1b7a42a6a2b2@89.208.231.232:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#🇷🇺 5.  🏳️БелСПИСКИ
 
-vless://5c165b34-44d5-07d0-b18a-692203c53824@5.188.140.211:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 6.  🏳️БелСПИСКИ
+vless://e301eb29-8d52-07d0-83dd-1b7a42a6a2b2@89.208.231.232:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#🇷🇺 6.  🏳️БелСПИСКИ
 
 vless://27ce0d34-2500-07d0-89dc-764fa356057d@5.188.140.211:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 7.  🏳️БелСПИСКИ
 
