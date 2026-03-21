@@ -2,13 +2,13 @@
 #profile-update-interval: 1
 #announce: 🔄автообновление - 1 час; мы не можем гарантировать работу серверов у разных операторов и в разных регионах!
 
-vless://06c81117-214a-498c-bd68-c54c68bf1cac@212.111.84.22:443?security=reality&encryption=none&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vklive.enotfast.com&sid=12b4bc71293e01#🇷🇺 1. 🏳️УСКОРЕНИЕ 
+vless://06c81117-214a-498c-bd68-c54c68bf1cac@212.111.84.22:443?security=reality&encryption=none&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vklive.enotfast.com&sid=12b4bc71293e01#🇷🇺 1. 🏳️УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
-vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@64.188.106.103:443?security=reality&encryption=none&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=21342134#🇷🇺 2. 🏳️УСКОРЕНИЕ
+vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@64.188.106.103:443?security=reality&encryption=none&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=21342134#🇷🇺 2. 🏳️УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?path=%2FTelegram+%40WangCai2&security=tls&encryption=none&host=ylnhh.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=ylnhh.cc.cd#🇷🇺 3. 🏳️УСКОРЕНИЕ | УСИЛЕННОЕ
+vless://3d737761-5951-462e-86c1-ff921d9f9999@146.185.240.92:8443?mode=auto&path=%2Fapi%2Fmaps&security=reality&encryption=none&pbk=YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI&host=5post-gate-test.x5.ru&fp=qq&allowinsecure=0&type=xhttp&sni=5post-gate-test.x5.ru#🇷🇺 3. 🏳️УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
-vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2f7cbec60e#🇷🇺 4. 🏳️УСКОРЕНИЕ | ЭКСТРИМ
+vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2f7cbec60e#🇷🇺 4. 🏳️УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 5. БелСПИСКИ
 
