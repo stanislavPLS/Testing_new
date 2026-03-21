@@ -12,13 +12,13 @@ vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=realit
 
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 5. БелСПИСКИ
 
-vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 6. БелСПИСКИ
+vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.189.174:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 6. БелСПИСКИ
 
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@109.120.191.199:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#🇷🇺 7. БелСПИСКИ
 
-vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.139.33.8:1255?security=reality&encryption=none&pbk=kTDSBp4QGP4ob2GsBXkJAsSggJ6thuIuyfJQajX_RW4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#🇷🇺 8. БелСПИСКИ | СТАБИЛЬНЫЕ
+vless://24d20299-d1d1-4060-a4b3-b715c247c2c5@178.154.196.95:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a20d3ed244c76426#🇷🇺 8. БелСПИСКИ
 
-vless://0441fda6-a7c0-448f-bd82-097031a767f9@89.208.87.48:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=c0ffee1234abcd11&spx=%2F&fp=random&type=tcp#🇷🇺 9. БелСПИСКИ | СТАБИЛЬНЫЕ
+vless://148c2937-fb6d-07d0-93a8-369b1fbc9791@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 9. БелСПИСКИ
 
 vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbGxvd2luc2VjdXJlIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HuvCfh7ggMTAuINCh0KjQkCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
