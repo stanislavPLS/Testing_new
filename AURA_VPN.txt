@@ -16,11 +16,11 @@ vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@pass.enigmabot.ru:443?security=real
 
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?path=%2FTelegram+%40WangCai2&security=tls&encryption=none&host=ylnhh.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=ylnhh.cc.cd#🇷🇺 7. БелСПИСКИ
 
-vless://8e2ebe63-0ca3-4468-8469-fbc7974b2b48@158.160.192.222:8443?security=reality&encryption=none&pbk=bHBZDPBhtUUsRx9oJVJPIk_3V_0RjyYSbmWyIaLDQ2M&headerType=none&fp=edge&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=372c05b48fe83e5b#🇷🇺 8. БелСПИСКИ
+vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.139.33.8:1255?security=reality&encryption=none&pbk=kTDSBp4QGP4ob2GsBXkJAsSggJ6thuIuyfJQajX_RW4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#🇷🇺 8. БелСПИСКИ | СТАБИЛЬНЫЕ
 
-vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.18.14.168:1111?security=reality&encryption=none&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 9. БелСПИСКИ | СТАБИЛЬНЫЙ
+vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.18.14.168:1111?security=reality&encryption=none&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 9. БелСПИСКИ | СТАБИЛЬНЫЕ
 
-vless://2c43a787-7aed-58e2-a549-ef60fc734b2d@217.12.194.178:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=i__UIhMtqZkSvSg3ZqZ55P13JyfkWtjeipK4_T_1xGk&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=726b8b23#🇺🇸 10. США
+vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbGxvd2luc2VjdXJlIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HuvCfh7ggMTAuINCh0KjQkCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 trojan://zneFk0rMYFVvg4ateC-T2A3V3UhNBva5@de5.nn-id.com:443?security=tls&headerType=none&allowinsecure=0&type=tcp&sni=de5.nn-id.com#🇩🇪 11. ГЕРМАНИЯ
 
