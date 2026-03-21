@@ -1,6 +1,8 @@
 #profile-title: 🛡️АУРА-ВПН🌐
 #profile-update-interval: 1
-#announce: 🔄автообновление - 1 час; мы не можем гарантировать работу серверов у разных операторов и в разных регионах!
+#announce: 🔄автообновление - 1 час; мы не можем гарантировать работу серверов у разных операторов и в разных регионах! техподдержка 👉
+#support-url: https://t.me/AuraVPN_TSupport
+#subscription-userinfo: upload=1; download=1; total=1099511627776; expire=1798701622
 
 vless://06c81117-214a-498c-bd68-c54c68bf1cac@212.111.84.22:443?security=reality&encryption=none&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vklive.enotfast.com&sid=12b4bc71293e01#🇷🇺 1. 🏳️УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
