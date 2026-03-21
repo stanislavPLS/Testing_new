@@ -8,7 +8,7 @@ vless://e1c3b1b5-5d8f-4bce-a999-b442762dc245@64.188.106.103:443?security=reality
 
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?path=%2FTelegram+%40WangCai2&security=tls&encryption=none&host=ylnhh.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=ylnhh.cc.cd#🇷🇺 3. 🏳️УСКОРЕНИЕ | УСИЛЕННОЕ
 
-vless://241d4b1a-211d-11f1-9edf-00163e5e6c00@51.250.77.210:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=rBlRByF7HmzhbH14VGe-dwJUMZ4PZyH5-kbw2lU21EI&fp=chrome&allowinsecure=0&type=xhttp&sni=api-maps.yandex.ru&sid=e88482c6#🇷🇺 4. 🏳️УСКОРЕНИЕ | ЭКСТРИМ
+vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2f7cbec60e#🇷🇺 4. 🏳️УСКОРЕНИЕ | ЭКСТРИМ
 
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=ylnhh.cc.cd&fp=chrome&allowinsecure=0&type=ws&sni=ylnhh.cc.cd#🇷🇺 5. БелСПИСКИ
 
@@ -26,6 +26,6 @@ trojan://zneFk0rMYFVvg4ateC-T2A3V3UhNBva5@de5.nn-id.com:443?security=tls&headerT
 
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=www.cloudflare.com#🇳🇱 12. НИДЕРЛАНДЫ
 
-vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2f7cbec60e#🇫🇮 13. ФИНЛЯНДИЯ
+vless://18521157-83f3-4a21-8ebb-88454d1ed5b2@87.239.108.204:2443?security=reality&encryption=none&pbk=43MxR6rbzZrI-XTL-B_lPwbl4-Mr5v0mumP5wleUYjs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ads.x5.ru&sid=2d7cbec60e#🇫🇮 13. ФИНЛЯНДИЯ
 
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇬🇧 14. ВЕЛИКОБРИТАНИЯ
