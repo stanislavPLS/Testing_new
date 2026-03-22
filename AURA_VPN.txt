@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🔄автообновление - 1 час; мы не можем гарантировать работу серверов у разных операторов и в разных регионах! техподдержка 👉
 #support-url: https://t.me/AuraVPN_TSupport
+#sub-expire: 1
 ##sub-expire-button-link: https://t.me/AURA_VPN_OFF
 
 
