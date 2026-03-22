@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #announce: 🔄автообновление - 1 час; мы не можем гарантировать работу серверов у разных операторов и в разных регионах! техподдержка 👉
 #support-url: https://t.me/AuraVPN_TSupport
-#sub-expire: 1
-##sub-expire-button-link: https://t.me/AURA_VPN_OFF
-
 
 vless://7bdb2e0b-875d-4de8-9337-2c747bab18c9@212.233.95.123:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 1. УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
