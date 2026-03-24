@@ -13,19 +13,19 @@ vless://fb5ed975-e19a-4b59-9300-4eaf0756c5ff@81.200.151.123:443?security=reality
 
 vless://167fb330-00a3-4e37-858d-a979e61eb818@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 5. БЕЛЫЕ СПИСКИ
 
-vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.125:443?security=reality&encryption=none&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=9a225e28cbfd492c#🇷🇺 6. БЕЛЫЕ СПИСКИ
+vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 6. БЕЛЫЕ СПИСКИ
 
-vless://555b9167-afc4-000a-97c1-a27f361230e9@89.208.223.111:443?vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 7. БЕЛЫЕ СПИСКИ
+vless://616f5b93-e3cb-47df-a5f5-73de41030348@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 7. БЕЛЫЕ СПИСКИ
 
-vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 8. БЕЛЫЕ СПИСКИ
+vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.125:443?security=reality&encryption=none&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=9a225e28cbfd492c#🇷🇺 8. БЕЛЫЕ СПИСКИ
 
-vless://616f5b93-e3cb-000a-a5f5-73de41030348@89.208.223.111:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 9. БЕЛЫЕ СПИСКИ
+vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.125:443?security=reality&encryption=none&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=9a225e28cbfd492c#🇷🇺 9. БЕЛЫЕ СПИСКИ
 
-vless://78248365-82d6-4804-98ce-596e6859a104@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 10. БЕЛЫЕ СПИСКИ
+vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 10. БЕЛЫЕ СПИСКИ
 
-vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.125:443?security=reality&encryption=none&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=9a225e28cbfd492c#🇷🇺 11. БЕЛЫЕ СПИСКИ
+vless://78248365-82d6-4804-98ce-596e6859a104@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 11. БЕЛЫЕ СПИСКИ
 
-vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.18.14.168:1111?security=reality&encryption=none&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 12. БЕЛЫЕ СПИСКИ | СТАБИЛЬНЫЕ
+vless://fb5ed975-e19a-4b59-9300-4eaf0756c5ff@55.denditop.site:443?security=reality&encryption=none&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=27e53bbcab7593d7#🇷🇺 12. БЕЛЫЕ СПИСКИ | СТАБИЛЬНЫЕ
 
 vless://4233f1af-6cdc-4274-a57a-6aa4398eccbb@146.185.209.100:8443?mode=multi&security=reality&encryption=none&authority=&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&allowinsecure=0&type=grpc&serviceName=&sni=max.ru&sid=0123456789abcdef#🇬🇧 13. ВЕЛИКОБРИТАНИЯ 
 
