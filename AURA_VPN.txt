@@ -3,28 +3,12 @@
 #announce: 🔄автообновление - 2 часа; мы не можем гарантировать работу серверов у разных операторов и в разных регионах! техподдержка 👉
 #support-url: https://t.me/AuraVPN_TSupport
 
-vless://fb5ed975-e19a-4b59-9300-4eaf0756c5ff@5.188.140.91:443?security=reality&encryption=none&pbk=M0gprdfsmoiEpavn91rnE5xAsJnEc89ykgIlgdpnoGU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 1. УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
+vless://0fe75c44-1353-4a2d-92b3-164d579339ca@109.120.189.83:443?security=reality&encryption=none&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&headerType=none&fp=edge&spx=%2F&allowinsecure=0&type=tcp&sni=api-maps.yandex.ru&sid=fff8#🇷🇺 1. УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ
 
-vless://fb5ed975-e19a-4b59-9300-4eaf0756c5ff@81.200.151.123:443?security=reality&encryption=none&pbk=FRQNVx5M9doUxGobDzrjXNd5sD4sGVEdJfm_fC-zKiI&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=49905f77f1aac347#🇷🇺 2. УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ 
+vless://a8bfc801-f718-49eb-b6b5-e58055bc53f4@109.120.189.83:443?security=reality&encryption=none&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&headerType=none&fp=edge&spx=%2F&allowinsecure=0&type=tcp&sni=api-maps.yandex.ru&sid=fff8#🇷🇺 2. УСКОРЕНИЕ ДЛЯ ТЕЛЕГРАММ 
 
-vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.125:443?security=reality&encryption=none&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=9a225e28cbfd492c#🇷🇺 3. БЕЛЫЕ СПИСКИ
+vless://78248365-82d6-4804-98ce-596e6859a104@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 3. БЕЛЫЕ СПИСКИ
 
-vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 4. БЕЛЫЕ СПИСКИ
+vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
-vless://78248365-82d6-4804-98ce-596e6859a104@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 5. БЕЛЫЕ СПИСКИ
-
-vless://167fb330-00a3-4e37-858d-a979e61eb818@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 6. БЕЛЫЕ СПИСКИ
-
-vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@212.233.89.75:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 7. БЕЛЫЕ СПИСКИ
-
-vless://616f5b93-e3cb-47df-a5f5-73de41030348@217.16.28.55:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺 8. БЕЛЫЕ СПИСКИ
-
-vless://40759e42-d74b-4470-acc4-a580f264e860@5.188.141.125:443?security=reality&encryption=none&pbk=EJTm__7GW-Qpejoz5TlSAiargvm5KkcmFmfuIgf2wBE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=9a225e28cbfd492c#🇷🇺 9. БЕЛЫЕ СПИСКИ
-
-
-vless://fb5ed975-e19a-4b59-9300-4eaf0756c5ff@55.denditop.site:443?security=reality&encryption=none&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=27e53bbcab7593d7#🇷🇺 10. БЕЛЫЕ СПИСКИ | СТАБИЛЬНЫЕ
-
-vless://3e858d87-54ae-4aba-b873-f84e0b7e4909@217.16.30.69:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#🇷🇺 11. ЮТУБ БЕЗ РЕКЛАМЫ ЭКСПРЕСС
-
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@146.185.209.95:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#🇫🇮 12. ФИНЛЯНДИЯ 
-
+vless://a6abf70b-f734-42e5-ace6-208e4d53d207@146.185.209.95:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#🇫🇮 5. ФИНЛЯНДИЯ 
