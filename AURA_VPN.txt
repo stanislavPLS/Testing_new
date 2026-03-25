@@ -19,6 +19,6 @@ vless://c2be17d3-30fa-07d0-84ff-10ad79d5a03f@5.188.142.104:443?security=reality&
 
 vless://9d17d7de-d0a7-431c-a3f1-6dac849a1293@5.vlshub.ru:8443?mode=gun&security=reality&encryption=none&authority=&pbk=NFTWY5wuu3S6gVVZCHecev7mD77-oSgihPY41-Ysi08&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=eh.vk.com&sid=3494a10dc242841e#🇷🇺 8. БЕЛЫЕ СПИСКИ
 
-vless://9d17d7de-d0a7-431c-a3f1-6dac849a1293@5.vlshub.ru:8443?mode=gun&security=reality&encryption=none&authority=&pbk=NFTWY5wuu3S6gVVZCHecev7mD77-oSgihPY41-Ysi08&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=eh.vk.com&sid=3494a10dc242841e#🇷🇺 8. БЕЛЫЕ СПИСКИ
+vless://9d17d7de-d0a7-431c-a3f1-6dac849a1293@5.vlshub.ru:8443?mode=gun&security=reality&encryption=none&authority=&pbk=NFTWY5wuu3S6gVVZCHecev7mD77-oSgihPY41-Ysi08&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=eh.vk.com&sid=3494a10dc242841e#🇷🇺 9. БЕЛЫЕ СПИСКИ
 
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@146.185.209.95:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#🇫🇮 10. ФИНЛЯНДИЯ 
+vless://0b680642-cd58-4bf5-b09d-3d3e89efdef0@finn.vpnspacev.com:443?security=reality&encryption=none&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&headerType=none&allowinsecure=0&type=tcp&sni=yandex.ru&sid=dd863d0cb9#🇫🇮 10. ФИНЛЯНДИЯ 
