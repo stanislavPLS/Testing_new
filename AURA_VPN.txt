@@ -17,7 +17,7 @@ vless://c875e33d-31a3-47cf-b488-0a07d1d3ea39@51.250.77.186:443?security=reality&
 
 vless://f24a80cd-c217-07d0-af73-173deb4f3fdc@212.193.156.229:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 7. БЕЛЫЕ СПИСКИ 
 
-vless://1921a86c-d11f-07d0-a939-2b2b84b2fc71@212.193.156.236:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 8. БЕЛЫЕ СПИСКИ 
+vless://c875e33d-31a3-47cf-b488-0a07d1d3ea39@87.239.106.85:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a9c4f17e3b62d8#🇷🇺 8. БЕЛЫЕ СПИСКИ 
 
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#🇷🇺 9. БЕЛЫЕ СПИСКИ 
 
