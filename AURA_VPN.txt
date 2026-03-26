@@ -9,13 +9,13 @@ vless://96a711be-542c-4976-9066-33442e780c61@51.250.67.62:443?mode=auto&path=%2F
 
 vless://c30dbee7-155a-488a-9770-4ac8a1a6c452@158.160.178.97:8090?security=reality&encryption=none&pbk=R7r8gBP_gDZab-8BnL1R9xNjTRfD-wCxncaD5YP07HI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=19c57b#🇷🇺 3. БЕЛЫЙ МИКС
 
-vless://7bbcc147-4352-4fed-bb2c-82ab60989575@51.250.83.149:443?security=reality&encryption=none&pbk=VtsbEs0iW2c_4vicUJIykkDSKrgQEcgr4pg4pCDq7Ro&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 4. БЕЛЫЕ СПИСКИ 
+vless://c875e33d-31a3-47cf-b488-0a07d1d3ea39@51.250.77.186:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7e2a9d4c5f18b0#🇷🇺 4. БЕЛЫЕ СПИСКИ 
 
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 5. БЕЛЫЕ СПИСКИ 
 
-vless://16c842df-60e8-4c70-8f84-d4e25620d750@62.152.59.116:443?security=reality&encryption=none&pbk=yC3oBuJflplUqoZSYHFRIWu0vN3LEaNp2per6ktvmzg&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 6. БЕЛЫЕ СПИСКИ 
+vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 6. БЕЛЫЕ СПИСКИ 
 
-vless://16c842df-60e8-4c70-8f84-d4e25620d750@178.250.243.74:443?security=reality&encryption=none&pbk=B_ZMgftOKOESllETgqYEVqYymhlHsU7v4MnJncM9iRw&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m11.mangovless.site&sid=ae5ecc560887552c#🇷🇺 7. БЕЛЫЕ СПИСКИ 
+vless://c875e33d-31a3-47cf-b488-0a07d1d3ea39@87.239.106.85:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a9c4f17e3b62d8#🇷🇺 7. БЕЛЫЕ СПИСКИ 
 
 vless://c875e33d-31a3-47cf-b488-0a07d1d3ea39@87.239.106.85:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a9c4f17e3b62d8#🇷🇺 8. БЕЛЫЕ СПИСКИ 
 
