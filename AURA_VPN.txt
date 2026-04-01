@@ -1,34 +1,23 @@
-#profile-title: 🛡️АУРА-ВПН🌐
-#profile-update-interval: 2
-#announce: 🔄автообновление - 2 часа; мы не можем гарантировать работу серверов у разных операторов и в разных регионах! техподдержка 👉
+#profile-title: АУРА-ВПН
+#profile-update-interval: 4
+#announce: АУРА-ВПН на связи🤙, версия: 2.0, мы не гарантируем работу в разных регионах и у разных операторов | Техподдержка ↗️
 #support-url: https://t.me/AuraVPN_TSupport
 
-vless://fbe488e0-cb16-451b-be04-f376d27e9b13@37.139.34.88:443?security=reality&encryption=none&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=b2a6e3d42f05c3d1#🌐ЧТОБЫ ОБНОВИТЬ ПОДПИСКУ!
+vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@91.243.82.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=eh.vk.com&sid=aefbcf7fc283bd55#🇷🇺Белые Списки №1
 
-vless://fbe488e0-cb16-451b-be04-f376d27e9b13@89.208.86.5:443?security=reality&encryption=none&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=b2a6e3d42f05c3d1#🇷🇺 1. БЕЛЫЙ МИКС
-
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺 2. БЕЛЫЙ МИКС
-
-vless://c6176f4a-e81b-4e41-88f9-c4235b4fcc07@84.201.157.48:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 3. БЕЛЫЙ МИКС
-
-vless://c6176f4a-e81b-4e41-88f9-c4235b4fcc07@84.201.157.48:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 4. БЕЛЫЙ МИКС
-
-vless://c6176f4a-e81b-4e41-88f9-c4235b4fcc07@158.160.108.157:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 5. БЕЛЫЙ МИКС
-
-vless://cd147f30-3785-4a1b-a98d-0ca758f7cc5a@51.250.86.145:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇷🇺 6. БЕЛЫЙ МИКС
-
-vless://f9a3d20b-74e2-43ce-98dc-72fea0c1654b@158.160.6.208:443?security=reality&encryption=none&pbk=IwijgHF_UQpj1RL6rhDpigqejMJjJxrGUWQrIMNtVgE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-3.legendary-vpn.com&sid=92a46a664c276668#🇷🇺 7. БЕЛЫЙ МИКС
-
-vless://30b635a1-9e64-4111-8ffd-891d3d33ca57@37.9.4.241:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b2a6e3d42f05c3d1#🇷🇺 8. БЕЛЫЙ МИКС
-
-vless://5be0658c-cab7-48c4-ad00-4d0f77df6bb7@62.152.59.118:443?security=reality&encryption=none&pbk=yC3oBuJflplUqoZSYHFRIWu0vN3LEaNp2per6ktvmzg&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺 9. БЕЛЫЙ МИКС
+vless://f7061665-183c-000a-89e1-0e21d2ee9efc@217.16.21.235:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#🇷🇺Белые Списки №2
 
 
-vless://2bf53570-feda-4b8e-bc4e-f28d34606308@nt6.nimarko.ru:8444?mode=gun&security=reality&encryption=none&authority=&pbk=fpIkP38L3xwAb8oTT4qaLm7GmE0JWgjjTjxCj8Kdhjs&allowinsecure=0&type=grpc&serviceName=GG&sni=max.ru#🇺🇸 10. США
+vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺Белые Списки №3
 
-vless://8e723528-ab32-4343-bb47-ee7411374697@95.163.212.77:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=random&allowinsecure=0&type=xhttp&sni=bonus05-02.uiu.fyi#🇳🇱 11. НИДЕРЛАНДЫ 
+vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@91.243.82.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=eh.vk.com&sid=aefbcf7fc283bd55##🇷🇺Белые Списки №4
 
-vless://7f13c66c-8164-43e4-b2a5-d511cce854fa@178.72.168.76:443?security=reality&encryption=none&pbk=7TvkMzoB3gEZy-5HfL6-M_AT_qWVgyeoiggDb2Qg5hE&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇩🇪 12. ГЕРМАНИЯ
+vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@91.243.82.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=eh.vk.com&sid=aefbcf7fc283bd55#🇷🇺Белые Списки №5
 
+vless://6fa7e3d5-d2df-4ac1-a08e-8d1638d1f735@5.188.143.99:443?security=reality&encryption=none&pbk=0CP26gW-dZV0f96JFM9H6aja_YfNBnpGbbxDhplVDmI&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=72#🇷🇺Белые Списки №6
 
+vless://8e723528-ab32-4343-bb47-ee7411374697@95.163.212.77:443?mode=auto&path=%2Fapi%2Fv2%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=random&allowinsecure=0&type=xhttp&sni=bonus05-02.uiu.fyi#🇳🇱Нидерланды №7
 
+vless://38693b52-49a3-492b-9e6a-bd0fc524068e@188.225.43.99:443?security=reality&encryption=none&pbk=gkXWyBWBgObexMJGfDoDLbX2xKJbQwLLEEkzt-4j3ik&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇩🇪Германия №8
+
+trojan://trojan@54.46.72.234:8025?path=%2F&security=tls&host=jflsjlaf.pages.dev&allowinsecure=0&type=ws&sni=jflsjlaf.pages.dev#высокоскоростной сервер №9
