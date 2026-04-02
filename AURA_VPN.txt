@@ -3,7 +3,7 @@
 #announce: АУРА-ВПН на связи🤙, мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.1, Техподдержка ↗️
 #support-url: https://t.me/AuraVPN_TSupport
 
-vless://zero.none.com@255.255.255.0:1234?type=tcp&security=reality&pbk=0000000000000000000000000_00000000000000000&fp=chrome&sni=zero.none.com&spx=%2F&flow=xtls-rprx-vision&sid=zero#Приятного использования
+vless://zero.none.com@255.255.255.0:1234?type=tcp&security=reality&pbk=0000000000000000000000000_00000000000000000&fp=chrome&sni=zero.none.com&spx=%2F&flow=xtls-rprx-vision&sid=111222#Приятного использования
 
 vless://db230947-ac07-462a-adeb-b0c7ec994cf5@37.139.34.244:7443?mode=gun&security=reality&encryption=none&authority=&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺Белые Списки №1
 
