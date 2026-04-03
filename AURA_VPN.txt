@@ -1,13 +1,11 @@
-#profile-title: АУРА-ВПН
+#profile-title: ☀️АУРА-ВПН🛡️
 #profile-update-interval: 3
-#announce: АУРА-ВПН на связи🤙, мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.4, Техподдержка ↗️
+#announce: АУРА-ВПН на связи🤙, мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.5, Техподдержка ↗️
 #support-url: https://t.me/AuraVPN_TSupport
 
-vless://zero.none.com@255.255.255.0:1234?type=tcp&security=reality&pbk=0000000000000000000000000_00000000000000000&fp=chrome&sni=zero.none.com&spx=%2F&flow=xtls-rprx-vision&sid=111222#Приятного использования
+vless://db230947-ac07-462a-adeb-b0c7ec994cf5@37.139.34.244:7443?vless://db230947-ac07-462a-vless://09b81314-7592-4ffb-9773-6351de8a7f74@79.174.94.179:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=6da16b1335651b38#🇷🇺Белые Списки №1
 
-vless://db230947-ac07-462a-adeb-b0c7ec994cf5@37.139.34.244:7443?vless://db230947-ac07-462a-adeb-b0c7ec994cf5@37.139.34.244:7443?mode=gun&security=reality&encryption=none&authority=&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺Белые Списки №1
-
-vless://09b81314-7592-4ffb-9773-6351de8a7f74@37.139.34.244:443?mode=gun&security=reality&encryption=none&authority=&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=eh.vk.com&sid=aefbcf7fc283bd55#🇷🇺Белые Списки №2
+vless://418ad4b9-d8be-447c-953d-e666fb154685@79.174.94.179:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=6da16b1335651b38#🇷🇺Белые Списки №2
 
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺Белые Списки №3
 
@@ -17,23 +15,29 @@ vless://418ad4b9-d8be-447c-953d-e666fb154685@37.139.32.63:7443?mode=gun&security
 
 vless://09b81314-7592-4ffb-9773-6351de8a7f74@37.139.34.244:7443?mode=gun&security=reality&encryption=none&authority=&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺Белые Списки №6
 
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.183.171:443?mode=gun&security=reality&encryption=none&authority=&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=eh.vk.com&sid=aefbcf7fc283bd55#🇷🇺Белые Списки №7
+vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@217.16.26.253:7443?mode=gun&security=reality&encryption=none&authority=&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺Белые Списки №7
 
 vless://40600c8a-730a-411c-b72b-c3bca115dcf7@37.139.32.45:8443?mode=gun&security=reality&encryption=none&authority=&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#🇷🇺Белые Списки №8
 
-vless://db230947-ac07-462a-adeb-b0c7ec994cf5@37.139.32.45:7443?mode=gun&security=reality&encryption=none&authority=&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#🇷🇺Белые Списки №9
+vless://f5a09282-be6f-48b1-b66c-22dc9d04dc08@158.160.233.48:443?mode=multi&security=reality&encryption=none&authority=&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&allowinsecure=0&type=grpc&serviceName=&sni=static-mon.yandex.net&sid=2901df419dc4e3ff#🇷🇺Белые Списки №9
 
-vless://b50d60f0-c1d4-42b7-901b-eec5ccab09e0@92.51.38.90:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru#🇷🇺Белые Списки №10
+vless://b2475b96-e1ff-4e85-89b2-978da65ad5a7@51.250.1.57:443?security=reality&encryption=none&pbk=Ew5a5rNW0ZLY9s4xnI3iZHbNLw2I21bp_kwa5poLcDU&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=b2a6e3d42f05c3d1#🇷🇺Белые Списки №10
 
-vless://1e28bbdc-f4ca-49b0-8ebb-383bcce0a106@92.51.38.90:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru#🇷🇺Белые Списки №11
+vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@79.174.94.179:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=6da16b1335651b38#🇷🇺Белые Списки №11
 
 vless://1156e5dc-4ff3-4046-bbce-d7688ebcf9fc@92.51.38.90:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdn-vx.barclais.co.uk#🇷🇺Белые Списки №12
 
-vless://f0aebf0b-6299-46e4-a15c-a9328ff1d271@51.250.9.182:3000?mode=auto&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&fp=safari&allowinsecure=0&type=xhttp&sni=api-maps.yandex.ru&sid=8e51f497fcb83232#🇷🇺Белые Списки №13
+vless://b2475b96-e1ff-4e85-89b2-978da65ad5a7@85.239.61.153:443?security=reality&encryption=none&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=b2a6e3d42f05c3d1#🇷🇺Белые Списки №13
 
-vless://a27cc491-ef1b-4bce-a370-d2825e92757c@51.250.43.230:443?security=reality&encryption=none&pbk=qnb7ady9T3Mz7lPfCS_NHnqpP1TP8elO6PfGtGuCLh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-6.legendary-vpn.com&sid=ce6afd4d73f15a92#🇫🇮Финляндия №14
+vless://1fabb370-dac5-47cd-a2cb-f8e82ed9223b@95.163.212.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=_1Vo7MoIcb8M1u2e7BkXRQx52-ls3mnMqzTs-TrOjg0&host=vk.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.vk.com&sid=287d#🇺🇸США №14
 
-vless://fb89a947-0d5b-43b2-982e-20b89d48d161@51.250.17.199:443?mode=gun&security=reality&encryption=none&authority=&pbk=Hwodw89GLba65CMpzNVcUycU9n25tBZOOIlPZcwEk0o&fp=firefox&spx=%2F47b60c08a0cb345b&allowinsecure=0&type=grpc&serviceName=&sni=ads.x5.ru&sid=cc015aacdfd7cfd7#🇨🇭Швейцария №15
+vless://09e7fcbd-b096-4d96-b5d5-544ee1d0ba8f@90.156.212.17:10443?security=reality&encryption=none&pbk=vFXf9DCe2wh2GHfcb-B41SmpDvEdbKUn3jdF6NyFywQ&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=53db6666ed2d99f1#🇩🇪Германия №15
 
-vless://e4ebcadd-8fd0-41b3-b371-b865a55d2c2e@51.250.115.54:9443?mode=gun&security=reality&encryption=none&authority=&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=firefox&allowinsecure=0&type=grpc&serviceName=grpc-gp&sni=max.ru&sid=ab#🇵🇱Польша №16
+vless://24674abd-a66f-4c71-aab1-e9d343c7beab@213.171.26.10:2443?mode=auto&path=%2F&security=reality&encryption=none&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=firefox&allowinsecure=0&type=xhttp&sni=max.ru&sid=ab#🇳🇱Нидерланды №16
+
+vless://a27cc491-ef1b-4bce-a370-d2825e92757c@51.250.43.230:443?security=reality&encryption=none&pbk=qnb7ady9T3Mz7lPfCS_NHnqpP1TP8elO6PfGtGuCLh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-6.legendary-vpn.com&sid=ce6afd4d73f15a92#🇫🇮Финляндия №17
+
+vless://2861b2ef-f612-4352-9bc7-8540ac9b0c7c@146.185.240.172:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=445ab326fc7c90ac#🇨🇭Швейцария №18
+
+vless://24674abd-a66f-4c71-aab1-e9d343c7beab@51.250.115.54:9443?mode=gun&security=reality&encryption=none&authority=&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&fp=firefox&allowinsecure=0&type=grpc&serviceName=grpc-gp&sni=max.ru&sid=abcdef0123456789#🇵🇱Польша №19
 
