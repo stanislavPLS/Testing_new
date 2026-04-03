@@ -1,6 +1,6 @@
 #profile-title: ☀️АУРА-ВПН🛡️
 #profile-update-interval: 3
-#announce: АУРА-ВПН на связи. мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.7.1, Техподдержка ↗️
+#announce: АУРА-ВПН на связи. мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.8, Техподдержка ↗️
 #support-url: https://t.me/AuraVPN_TSupport
 
 vless://80c77a37-d6d5-4a88-a420-ea7da95d84b4@178.154.219.42:2053?security=reality&encryption=none&pbk=kFvVObeyYi6BUNGxTzOwvuY_SKxgd9nWQuHaccbp4TM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a1b2c3d4#🇷🇺Белые Списки №1
@@ -31,13 +31,13 @@ vless://b2475b96-e1ff-4e85-89b2-978da65ad5a7@85.239.61.153:443?security=reality&
 
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&allowinsecure=0&type=ws&sni=daluan.eu.org#🇺🇸Великобритания №14
 
-vless://09e7fcbd-b096-4d96-b5d5-544ee1d0ba8f@90.156.212.17:10443?security=reality&encryption=none&pbk=vFXf9DCe2wh2GHfcb-B41SmpDvEdbKUn3jdF6NyFywQ&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=53db6666ed2d99f1#🇩🇪Германия №15
+vless://80c77a37-d6d5-4a88-a420-ea7da95d84b4@80.66.72.186:2096?security=reality&encryption=none&pbk=kFvVObeyYi6BUNGxTzOwvuY_SKxgd9nWQuHaccbp4TM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=1234abcd#🇩🇪Германия №15
 
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=www.cloudflare.com#🇳🇱Нидерланды №16
 
-vless://a27cc491-ef1b-4bce-a370-d2825e92757c@51.250.43.230:443?security=reality&encryption=none&pbk=qnb7ady9T3Mz7lPfCS_NHnqpP1TP8elO6PfGtGuCLh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wl-6.legendary-vpn.com&sid=ce6afd4d73f15a92#🇫🇮Финляндия №17
+vless://0fb42653-1b1e-4d27-bff1-555765192cdc@51.250.119.240:443?security=reality&encryption=none&pbk=Z0QdxxUoV3nbgTWWtTehxOHh9_oU0W5Pw9Pi46cIcD8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=crowdtest.payment-widget.plus.tst.kinopoisk.ru#🇫🇮Финляндия №17
 
 vless://2861b2ef-f612-4352-9bc7-8540ac9b0c7c@146.185.240.172:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=445ab326fc7c90ac#🇨🇭Швейцария №18
 
-vless://e080fcb3-e6e4-4fb2-9c93-3805b357a21f@81.200.151.228:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=b2a6e3d42f05c3d1#🇵🇱Польша №19
+vless://69507223-a85a-4da6-9a65-1dbf23ec7631@91.219.227.176:8444?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=qq&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=7dbf7d3233971d5c#🇵🇱Польша №19
 
