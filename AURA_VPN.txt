@@ -1,11 +1,11 @@
 #profile-title: ☀️АУРА-ВПН🛡️
 #profile-update-interval: 3
-#announce: АУРА-ВПН на связи🤙, мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.5.1, Техподдержка ↗️
+#announce: АУРА-ВПН на связи🤙, мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.6, Техподдержка ↗️
 #support-url: https://t.me/AuraVPN_TSupport
 
-vless://db230947-ac07-462a-vless://09b81314-7592-4ffb-9773-6351de8a7f74@79.174.94.179:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=6da16b1335651b38#🇷🇺Белые Списки №1
+vless://9f2962fa-9bf8-49b7-afc9-b54bf2cc9a27@51.250.42.144:443?type=tcp&encryption=none&security=reality&pbk=m1nOFPMITHwlbKRrmYTTEhD8lgj9sWXRpzv9Waa3mDM&fp=firefox&sni=max.ru&sid=c1&spx=%2F#🇷🇺🟩Белые Списки №1
 
-vless://418ad4b9-d8be-447c-953d-e666fb154685@79.174.94.179:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=6da16b1335651b38#🇷🇺Белые Списки №2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY2Y0TnJvNmpBVUxTZHI1Z2Y2RlNS@51.250.42.144:32254/?outline=1#🇷🇺🟧Белые Списки №2
 
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#🇷🇺Белые Списки №3
 
