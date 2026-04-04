@@ -1,6 +1,6 @@
 #profile-title: ☀️АУРА-ВПН🛡️
 #profile-update-interval: 3
-#announce: АУРА-ВПН на связи. мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.8, Техподдержка ↗️
+#announce: АУРА-ВПН на связи. мы не гарантируем работу в разных регионах и у разных операторов | версия: 2.0.2.9, Техподдержка ↗️
 #support-url: https://t.me/AuraVPN_TSupport
 
 vless://80c77a37-d6d5-4a88-a420-ea7da95d84b4@178.154.219.42:2053?security=reality&encryption=none&pbk=kFvVObeyYi6BUNGxTzOwvuY_SKxgd9nWQuHaccbp4TM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a1b2c3d4#🇷🇺Белые Списки №1
@@ -35,7 +35,7 @@ vless://80c77a37-d6d5-4a88-a420-ea7da95d84b4@80.66.72.186:2096?security=reality&
 
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowinsecure=1&sni=www.cloudflare.com#🇳🇱Нидерланды №16
 
-vless://0fb42653-1b1e-4d27-bff1-555765192cdc@51.250.119.240:443?security=reality&encryption=none&pbk=Z0QdxxUoV3nbgTWWtTehxOHh9_oU0W5Pw9Pi46cIcD8&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=crowdtest.payment-widget.plus.tst.kinopoisk.ru#🇫🇮Финляндия №17
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?security=reality&encryption=none&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#🇯🇵Япония№17
 
 vless://2861b2ef-f612-4352-9bc7-8540ac9b0c7c@146.185.240.172:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=445ab326fc7c90ac#🇨🇭Швейцария №18
 
